@@ -1,0 +1,16 @@
+*{
+    margin: 0 auto; 
+    padding: 0 auto;
+    font-family: Courgette;
+    font-size: small;
+    background-color: #e4dbc9;   
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+}

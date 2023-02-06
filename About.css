@@ -1,0 +1,15 @@
+.main-container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-align: center;
+    font-weight: light;
+}
+
+.catdog {
+    max-width: 70%;
+    border-radius: 20rem;
+    align-items: center;
+}
